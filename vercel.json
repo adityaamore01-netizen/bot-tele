@@ -1,3 +1,0 @@
-
-
-// === vercel.json === { "version": 2, "routes": [ { "src": "/api/webhook", "dest": "/api/webhook.js" } ] }
