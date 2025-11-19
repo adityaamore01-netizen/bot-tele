@@ -1,0 +1,1 @@
+// === package.json === { "name": "mlbb-telegram-bot", "version": "1.0.0", "type": "module", "main": "api/webhook.js", "scripts": { "start": "node api/webhook.js" }, "dependencies": { "telegraf": "^4.12.2" } }
